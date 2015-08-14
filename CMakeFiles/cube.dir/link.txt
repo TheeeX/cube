@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/cube.dir/cube.cpp.o CMakeFiles/cube.dir/imageloader.cpp.o  -o cube -rdynamic -lGLU -lGL -lglut -lXmu -lXi 

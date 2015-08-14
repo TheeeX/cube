@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pixie/opengl/karan/cube/cube.cpp
+iostream
+-
+stdlib.h
+-
+OpenGL/OpenGL.h
+-
+GLUT/glut.h
+-
+GL/glut.h
+-
+imageloader.h
+/home/pixie/opengl/karan/cube/imageloader.h
+
+/home/pixie/opengl/karan/cube/imageloader.cpp
+assert.h
+-
+fstream
+-
+imageloader.h
+/home/pixie/opengl/karan/cube/imageloader.h
+
+/home/pixie/opengl/karan/cube/imageloader.h
+
